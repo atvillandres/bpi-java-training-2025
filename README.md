@@ -6,8 +6,8 @@ This is a repository of all activities for BPI Java Training 2025.
   <thead>
     <tr>
       <th><b>ACTIVITY</b></th>
-      <th colspan="2"><b>DESCRIPTION</b></th>
-      <th colspan="3"><b>LINK</b></th>
+      <th><b>DESCRIPTION</b></th>
+      <th><b>LINK</b></th>
     </tr>
   </thead>
   <tbody>
