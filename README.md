@@ -39,6 +39,7 @@ This is a repository of all activities for BPI Java Training 2025.
     </tbody>
 </table>
 
+
 <u><b>II) MODULE 2 - JAVA OBJECTS AND CLASSES</b></u>
 <table>
   <thead>
