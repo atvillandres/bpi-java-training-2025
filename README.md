@@ -11,7 +11,11 @@ This is a repository of all activities for BPI Java Training 2025.
   </thead>
   <tbody>
     <tr>
-      <td>[M1_Activity1](https://github.com/atvillandres/bpi-java-training-2025/tree/M1_Activity1)</td>
+      <td>
+        https://github.com/atvillandres/bpi-java-training-2025/tree/M1_Activity1
+          M1_Activity1
+        </a>
+      </td>
       <td>Module 1 - Introduction to Java (Activity 1)</td>
     </tr>
     <tr>
