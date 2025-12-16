@@ -83,3 +83,26 @@ This is a repository of all activities for BPI Java Training 2025.
   </tbody>
 </table>
 
+<br><u><b>II) MODULE 3 - COLLECTIONS AND GENERICS</b></u>
+<table>
+  <thead>
+    <tr>
+      <th><b>ACTIVITY NO.</b></th>
+      <th><b>ACTIVITY NAME</b></th>
+      <th><b>LINK</b></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>M3_Activity1</td>
+      <td>https://github.com/atvillandres/bpi-java-training-2025/tree/M3_Activity1</a></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>M3_Activity2</td>
+      <td>https://github.com/atvillandres/bpi-java-training-2025/tree/M3_Activity2</a></td>
+    </tr>
+  </tbody>
+</table>
+
