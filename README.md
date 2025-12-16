@@ -83,7 +83,7 @@ This is a repository of all activities for BPI Java Training 2025.
   </tbody>
 </table>
 
-<br><u><b>II) MODULE 3 - COLLECTIONS AND GENERICS</b></u>
+<br><u><b>III) MODULE 3 - COLLECTIONS AND GENERICS</b></u>
 <table>
   <thead>
     <tr>
