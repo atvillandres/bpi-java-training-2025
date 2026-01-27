@@ -1,4 +1,4 @@
-package ph.com.bpi.M4_Activity7;
+package ph.com.bpi.M4_Activity8;
 
 public class InsufficientFundsException extends Exception {
 

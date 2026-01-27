@@ -1,0 +1,13 @@
+2026-01-27 11:49:17.634 [INFO] ph.com.bpi.M4_Activity8.BankAccount - Deposit requested: ₱5000.0
+2026-01-27 11:49:17.637 [INFO] ph.com.bpi.M4_Activity8.BankAccount - Deposit completed: ₱5000.0, New balance: ₱15000.0
+2026-01-27 11:49:17.639 [INFO] ph.com.bpi.M4_Activity8.BankAccount - Withdrawal requested: ₱3000.0
+2026-01-27 11:49:17.639 [INFO] ph.com.bpi.M4_Activity8.BankAccount - Withdrawal completed: ₱3000.0, New balance: ₱12000.0
+2026-01-27 11:49:17.640 [INFO] ph.com.bpi.M4_Activity8.BankAccount - Deposit requested: ₱-500.0
+2026-01-27 11:49:17.641 [ERROR] ph.com.bpi.M4_Activity8.BankAccount - Invalid deposit amount: ₱-500.0
+2026-01-27 11:49:17.641 [ERROR] ph.com.bpi.M4_Activity8.BankAccount - Deposit failed: Deposit amount must be positive
+2026-01-27 11:49:17.644 [INFO] ph.com.bpi.M4_Activity8.BankAccount - Withdrawal requested: ₱20000.0
+2026-01-27 11:49:17.644 [WARN] ph.com.bpi.M4_Activity8.BankAccount - Insufficient funds: ₱12000.0 available
+2026-01-27 11:49:17.644 [ERROR] ph.com.bpi.M4_Activity8.BankAccount - Withdrawal failed: Insufficient funds for withdrawal
+2026-01-27 11:49:17.645 [INFO] ph.com.bpi.M4_Activity8.BankAccount - Deposit requested: ₱60000.0
+2026-01-27 11:49:17.645 [WARN] ph.com.bpi.M4_Activity8.BankAccount - Large deposit: ₱60000.0 - requires verification
+2026-01-27 11:49:17.645 [INFO] ph.com.bpi.M4_Activity8.BankAccount - Deposit completed: ₱60000.0, New balance: ₱72000.0
